@@ -4,7 +4,7 @@ int main() {
 
     //decleration of age
     int age;
-    cout<<" enter your age : "<< age << endl;
+    cout<<" enter your age : "<< age << endl; // garbage value le lega
 
     //defination 
     int mango =10;
